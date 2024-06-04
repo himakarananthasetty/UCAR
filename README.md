@@ -17,7 +17,7 @@ New developers are welcome to contribute more to the project!
 ## Usage
 To use the project, clone the repository and change the user directory.
 
-# Output
+# Output's
 ## Output with the radius 7
 <img width="1308" alt="Screenshot 2024-06-03 at 7 41 35 PM" src="https://github.com/himakarananthasetty/UCAR/assets/42874140/c891b17f-b3f5-45e0-a771-e516efeef1cf">
 
