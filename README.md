@@ -17,16 +17,16 @@ New developers are welcome to contribute more to the project!
 ## Usage
 To use the project, clone the repository and change the user directory.
 
-## Output
-# Output with the radius 7
+# Output
+## Output with the radius 7
 <img width="1308" alt="Screenshot 2024-06-03 at 7 41 35 PM" src="https://github.com/himakarananthasetty/UCAR/assets/42874140/c891b17f-b3f5-45e0-a771-e516efeef1cf">
 
-# Output with the radius 6
+## Output with the radius 6
 <img width="1467" alt="Screenshot 2024-06-03 at 7 41 53 PM" src="https://github.com/himakarananthasetty/UCAR/assets/42874140/1e4bced7-fe9f-4807-889a-39f1d4843a40">
 
-# Working of Unit Test Cases
+## Working of Unit Test Cases
 <img width="1407" alt="Screenshot 2024-06-03 at 7 42 23 PM" src="https://github.com/himakarananthasetty/UCAR/assets/42874140/d93e06a2-6f82-4a6f-a747-3d2b39a8c66a">
 
-# Made Positive Test case fail to demonstrate the working
+## Made Positive Test case fail to demonstrate the working
 <img width="1468" alt="Screenshot 2024-06-03 at 7 42 58 PM" src="https://github.com/himakarananthasetty/UCAR/assets/42874140/efd3b03c-fcd4-4a3d-92e1-c394ea7a0bb4">
 
