@@ -15,7 +15,9 @@ New developers are welcome to contribute more to the project!
 - Improve the Documentations
 
 ## Usage
-To use the project, clone the repository and change the user directory.
+- To use the project, clone the repository and change the user directory.
+- Package has been made by using Java Programming Language
+- This project recommends using IntelliJ IDEA or Eclipse as the Integrated Development Environment (IDE) to work on the code.
 
 # Output's
 ## Output with the radius 7
